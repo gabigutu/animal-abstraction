@@ -1,0 +1,23 @@
+
+f
+java:S2259,"DA "NullPointerException" could be thrown; "animal" is nullable here.(úãßùÿÿÿÿ8¡£ÂÑ—/
+s
+java:S1488"]Immediately return this expression instead of assigning it to the temporary variable "peste".(¤›¹İ
+s
+java:S1488"]Immediately return this expression instead of assigning it to the temporary variable "caine".(Èôîƒ
+7
+java:S1116"Remove this empty statement.(ôŸìúÿÿÿÿ
+L
+java:S6212"/Declare this local variable with "var" instead.(¤›¹İ8¤£ÂÑ—/
+L
+java:S6212"/Declare this local variable with "var" instead.(Èôîƒ8¥£ÂÑ—/
+³
+java:S1130("Remove the declaration of thrown exception 'jdk.jshell.spi.ExecutionControl$NotImplementedException', as it cannot be thrown from method's body.(€¼Óûÿÿÿÿ8à´ÂÑ—/
+J
+java:S6212)"/Declare this local variable with "var" instead.(ìÀ—€ÿÿÿÿÿ
+]	java:S125+"<This block of commented-out lines of code should be removed.(Äç»çúÿÿÿÿ8§£ÂÑ—/
+]	java:S125."<This block of commented-out lines of code should be removed.(´…÷™øÿÿÿÿ8â´ÂÑ—/
+L
+java:S1144"1Remove this unused private "cumparaPeste" method.(÷óö¸ÿÿÿÿÿ
+S
+java:S1144"1Remove this unused private "cumparaCaine" method.(øÛáËúÿÿÿÿ8â™ºÑ—/
